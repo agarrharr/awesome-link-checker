@@ -1,0 +1,6 @@
+language: generic
+addons:
+  apt:
+    packages:
+      - parallel
+script: /bin/bash ./verify-friends.sh
