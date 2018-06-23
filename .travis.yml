@@ -3,4 +3,4 @@ addons:
   apt:
     packages:
       - parallel
-script: /bin/bash ./verify-friends.sh
+script: /bin/bash ./verify-links.sh
